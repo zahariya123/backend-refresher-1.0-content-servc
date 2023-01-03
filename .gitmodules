@@ -1,0 +1,6 @@
+[submodule "src/submodules/backend-refresher-1.0-entities"]
+	path = src/submodules/backend-refresher-1.0-entities
+	url = https://github.com/zahariya123/backend-refresher-1.0-entities.git
+[submodule "src/submodules/backend-refresher-1.0-dtos"]
+	path = src/submodules/backend-refresher-1.0-dtos
+	url = https://github.com/zahariya123/backend-refresher-1.0-dtos.git
